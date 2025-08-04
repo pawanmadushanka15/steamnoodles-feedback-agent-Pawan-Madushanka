@@ -48,3 +48,6 @@ print("\nGenerated Response:\n", reply)
 
 2.plot_sentiment_trends("2023-07-24", "2024-07-31")
 
+
+
+https://github.com/user-attachments/assets/31772aa9-49f8-4426-a5d1-1797673f64dc
