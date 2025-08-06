@@ -61,6 +61,9 @@ Agent2:plot_sentiment_trends("2023-07-24", "2023-08-31")
 ##  Expected Output:
 Agent1:Thank you for your feedback! We're glad you enjoyed the noodles. We apologize for the slow service and will work to improve it.
 
+Agent2:
+
+<img width="1717" height="712" alt="Image" src="https://github.com/user-attachments/assets/e07792b2-5833-4d5e-936c-149e33c9cce4" />
 
 
 
