@@ -48,6 +48,20 @@ print("\nGenerated Response:\n", reply)
 
 2.plot_sentiment_trends("2023-07-24", "2024-07-31")
 
+---
+
+##  Prompt:
+Agent1:The noodles were amazing but the service was a bit slow.
+
+Agent2:plot_sentiment_trends("2023-07-24", "2023-08-31")
+
+
+---
+
+##  Expected Output:
+Agent1:Thank you for your feedback! We're glad you enjoyed the noodles. We apologize for the slow service and will work to improve it.
+
+
 
 
 
